@@ -1,0 +1,6 @@
+{
+  "name": "S-Mission Manager",
+  "description": "Application de gestion des frais de mission et des jours de récupération pour l'administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
